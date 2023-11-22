@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding = "UTF-8" ?>
+<cours>
+<titre>PRESENTATION</titre>
+<nom>SESSOU</nom>
+<prenom>stephanie</prenom>
+<sexe>F</sexe>
+<date_nais>19/11/2004</date_nais>
+<age>18</age>
+<diplom mention="tres bien">licence</diplom>
+<contact email="ckedkfkcdkf" tel="36855">contact me</contact>
+<localisation region="togo"> pays </localisation>
+<message> Mon argent de poche : &gt; 150</message>
+<![CDATA[
+    <age>156</age>
+]]>
+
+
+
+
+</cours>

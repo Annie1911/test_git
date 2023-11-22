@@ -1,0 +1,11 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<cours>
+
+    <titre>INITIATION XML</titre>
+    <date>Monday 13th November , 2023</date>
+    <contenu> Les conceptes de bases</contenu>
+    <teacher> Mlld.SESSOU </teacher>
+    <autre_info></autre_info>
+    <matricule/>
+
+</cours>

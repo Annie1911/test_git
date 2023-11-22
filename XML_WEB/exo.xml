@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<laptop nom="Desktop">
+<CPU>11tH GEN Itel(TM) i5-1135G7</CPU>
+<RAM>8.00 Go</RAM>
+<disque>SSD</disque>
+<RAM>8.00 Go</RAM>
+<Wifi>Ethernet</Wifi>
+<Bluetooth fabricant="Microsoft">DESKTOP8HP</Bluetooth>
+
+</laptop>
