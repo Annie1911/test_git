@@ -7,5 +7,17 @@
     <teacher> Mlld.SESSOU </teacher>
     <autre_info></autre_info>
     <matricule/>
+    <item>
+        <title>empire burlest</title>
+        <note>special edition</note>
+        <quantity>1</quantity>
+        <price>10.90</price>
+    </item>
+    <item>
+        <title>empire burlest</title>
+        <quantity>1</quantity>
+        <price>10.90</price>
+    </item>
+    
 
 </cours>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<employee xmlns:xsi="htpp://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="cour3.xsd">
+    <firstname>John</firstname>
+    <lastname>Smith</lastname>
+    <address>rue de la pova</address>
+    <city>lome</city>
+    <country>France</country>
+</employee>
